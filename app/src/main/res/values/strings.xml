@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AisleTask</string>
+    <string name="get_otp">
+Get OTP
+</string>
+    <string name="enter_your_">
+Enter Your\nPhone Number
+</string>
+    <string name="some_id">
+        +91
+    </string>
+    <string name="enter_the_o">Enter The OTP</string>
+</resources>
